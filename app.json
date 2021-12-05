@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "https://auth.expo.io",
     "name": "TP4_AuthSession",
     "slug": "TP4_AuthSession",
     "version": "1.0.0",
